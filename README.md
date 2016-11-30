@@ -21,9 +21,5 @@ UITapGestureRecognizer *tapGesture = [[UITapGestureRecognizer alloc]initWithTarg
 ```
 
 # 手机通讯录
-仿IOS手机通讯录效果
-- 1. 获取手机联系人
-- 2. 首字母排序显示 
-- 3. 搜索联系人连动 
-- 4.显示联系人信息 
-- 5.拨打电话
+仿IOS手机通讯录效果,获取手机联系人＼首字母排序显示 \搜索联系人连动\显示联系人信息\拨打电话
+
